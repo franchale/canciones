@@ -1,5 +1,5 @@
 # CUANDO YO SENTÍ EL AMOR DE DIOS
-
+[Canción en youtube](https://www.youtube.com/watch?v=DBF_jkRA4-k&pp=ygUgQ1VBTkRPIFlPIFNFTlTDjSBFTCBBTU9SIERFIERJT1PSBwkJ1AoBhyohjO8%3D)
 ```text
    ReM           SolM        ReM
 1. Cuando yo sen_tí     el a_mor de Dios
