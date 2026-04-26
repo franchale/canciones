@@ -4,27 +4,35 @@
 **Re+               La+**<br>
 La gente de nuestro tiempo.
 
-  **Mi-        La+    Re+**<br>
+**  Mi-        La+    Re+**<br>
 No sabe lo que es el amor.
 
+**                   La+**<br>
 Se vive perdiendo el tiempo.
 
+ **Mi-     La+      Re+   Re7**<br>
 Buscando y sin encontrar.
 
 ---
 
 ## Coro
+**Sol+     La+**<br>
 Amar amar amar.
 
+**      Re+   Si-**<br>
 Es entregarse.
 
-En alma y cuerpo, por la humanidad.
+**        Mi-     La+              Re+ Re7**<br>
+En alma y cuerpo,     por la humanidad.
 
+**Sol+      La+**<br>
 Vivir vivir vivir.
 
+**         Re+     Si-**<br>
 Siempre sirviendo.
 
-Sin que tu esperes algo para ti.
+**           Mi-   La+           Re+**<br>
+Sin que tu esperes     algo para ti.
 
 
 ---
