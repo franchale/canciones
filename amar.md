@@ -1,43 +1,49 @@
 # Amar
 
 ## Estrofa 1
-**Re+               La+**<br>
+```text
+Re+                 La+
 La gente de nuestro tiempo.
 
-**  Mi-        La+    Re+**<br>
+   Mi-         La+    Re+
 No sabe lo que es el amor.
 
-**                   La+**<br>
+                  La+
 Se vive perdiendo el tiempo.
 
- **Mi-     La+      Re+   Re7**<br>
+   Mi-     La+      Re+   Re7
 Buscando y sin encontrar.
+```
 
 ---
 
 ## Coro
-**Sol+     La+**<br>
+
+```text
+Sol+      La+
 Amar amar amar.
 
-**      Re+   Si-**<br>
+        Re+   Si-
 Es entregarse.
 
-**        Mi-     La+              Re+ Re7**<br>
+          Mi-     La+              Re+ Re7
 En alma y cuerpo,     por la humanidad.
 
-**Sol+      La+**<br>
+Sol+        La+
 Vivir vivir vivir.
 
-**         Re+     Si-**<br>
+Re+     Si-
 Siempre sirviendo.
 
-**           Mi-   La+           Re+**<br>
+             Mi-   La+           Re+
 Sin que tu esperes     algo para ti.
+```
 
 
 ---
 
 ## Estrofa 2
+```text
 En cristo, yo encontrado.
 
 Mensaje, de paz y de amor.
@@ -45,12 +51,13 @@ Mensaje, de paz y de amor.
 Su muerte cruzificado.
 
 Es ejmplo de tan grande amor.
-
+```
 **Coro**
 
 ---
 
 ## Estrofa 3
+```text
 Tu siempre debes hablarle.
 
 Que en cristo hay salvación.
@@ -58,5 +65,5 @@ Que en cristo hay salvación.
 LLevandoles este mensaje.
 
 De su muerte y resurrección
-
+```
 **Coro**
