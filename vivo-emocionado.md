@@ -1,4 +1,4 @@
-# VIVO EMOCIONADO (Ruben Sotelo)
+# VIVO EMOCIONADO
 [Canción en youtube]()
 ```text
    C         G      Am          Em     F            C       G
@@ -37,7 +37,7 @@ Tú crucificado, cuanto me has amado Tú resucitado, en ti la vida hallé
 ```
 <ul style="font-size: 10px;">
   <li>Fuente: <a href=""></a></li>
-  <li>Autor: </li>
-  <li>Música:</li>
+  <li>Autor: Rubén Sotelo</li>
+  <li>Música: Rubén Sotelo </li>
   <li><a href="http://">Tutorial</a></li>
 </ul>
