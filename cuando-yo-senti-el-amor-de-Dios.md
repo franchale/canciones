@@ -44,3 +44,8 @@ El te quiere demos_trar a tí, si a tí,
 SolM   LaM         ReM
 Su Jus_ticia en la cruz.
 ```
+<ul style="font-size: 10px;">
+  <li>Fuente: Coritario Principe de Paz</li>
+  <li>Autor:</li>
+  <li>Música:</li>
+</ul>

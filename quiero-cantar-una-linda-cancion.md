@@ -38,3 +38,9 @@ Como yo canta-rás a la hu-ma----ni----dad.
 
 Lam Rem Sol7
 ```
+<ul style="font-size: 10px;">
+  <li>Fuente: Coritario VN</li>
+  <li>Autor:</li>
+  <li>Música:</li>
+  <li><a href="http://">Tutorial</a></li>
+</ul>

@@ -26,8 +26,8 @@ Amar amar amar.
         Re+   Si-
 Es entregarse.
 
-          Mi-     La+              Re+ Re7
-En alma y cuerpo,     por la humanidad.
+          Mi-     La+            Re+ Re7
+En alma y cuerpo,     a la humanidad.
 
 Sol+        La+
 Vivir vivir vivir.
@@ -58,11 +58,11 @@ Es ejmplo de tan grande amor.
 
 ## Estrofa 3
 ```text
-Tu siempre debes hablarle.
+Tu siempre debes hablarles.
 
 Que en cristo hay salvación.
 
-LLevandoles este mensaje.
+Llevándoles este mensaje.
 
 De su muerte y resurrección
 ```
