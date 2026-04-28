@@ -3,7 +3,8 @@ Coros e himnos con acordes para guitarra.
 ## plantilla
 ````md
 # 
-[Canción en youtube]()
+- [Canción en youtube]()
+- [Partitura]()
 ```text
 
 ```

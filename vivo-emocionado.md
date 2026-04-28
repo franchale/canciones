@@ -1,5 +1,5 @@
 # VIVO EMOCIONADO
-[Canción en youtube]()
+- [Canción en youtube](https://www.youtube.com/watch?v=EW6iFViytcE&pp=ygUcdml2byBlbW9jaW9uYWRvIHJ1YmVuIHNvdGVsbw%3D%3D)
 ```text
    C         G      Am          Em     F            C       G
 1. Vivo emocionado, fuertemente atado, Jesús en tus brazos, en tu libertad

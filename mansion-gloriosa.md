@@ -1,5 +1,5 @@
 # MANSIÓN GLORIOSA
-[Canción en youtube]()
+- [Canción en youtube](https://www.youtube.com/watch?v=EGU7vYa7-_Y&pp=ygUQbWFuc2lvbiBnbG9yaW9zYQ%3D%3D)
 ```text
 1. Mansión gloriosa tengo yo en el cielo, 
 
