@@ -1,5 +1,6 @@
 # LA CABAÑA
-[Canción en youtube]()
+- [Canción en youtube 1 - Coro Cristiano Emanuel](https://youtu.be/Pa11fiYcoJ4)
+- [Canción en youtube 2 - Romanti Ezel 267](https://youtu.be/Y6U-s21Hv-I)
 ```text
    Do+       Sol+     Do+  Do7  Fa+     Sol+  Do+  Do7
 1. Hoy desde mi    ca_ba___ña,  vi el a_mane__ce___eer
