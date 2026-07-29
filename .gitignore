@@ -1,0 +1,4 @@
+# Documentos generados
+output/pdf/*.pdf
+output/odt/*.odt
+output/html/*.html
