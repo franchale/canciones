@@ -1,5 +1,5 @@
 # EN MEDIO DE LA CONGREGACIÓN
-- [Canción en youtube 1 - Coro Cristiano En Medio de la Congregación](https://acordes.lacuerda.net/jorge_lozano/en_medio_de_la_congregacion.shtml)
+- [Canción en lacuerda.net - Coro Cristiano En Medio de la Congregación](https://acordes.lacuerda.net/jorge_lozano/en_medio_de_la_congregacion.shtml)
 ```text
 
 G                      C
