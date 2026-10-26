@@ -5,12 +5,20 @@
 1. Mi noble sostén    de la esperanza mía
                     La+                   Re+
    fuente bendita-a-a    de vida eterna-a-a
-   tan solo mi alma que tus fuerzas fía
-   //Tiene paz//.
+               La+  Si-                  Fa#-  Sol+
+   tan solo mi alma-a    que tus fuerzas fía
+              La+            
+   Tiene pa-a-az, Tiene pa-a-az
 
 coro
-// Mi sostén es Jesús
-nunca en la lucha desmayar podré//
+   Re+   La+ Si-  Fa#-   Sol+ 
+   Mi sostén es Jesús
+               Re+        La+    Re+
+   nunca en la lucha desmayar podré
+   Re+  La+         Si-    Fa#-  Sol+ 
+   Mi   sostén es Jesú---ú-ú-ú---ús
+               Re+        La+    Re+
+   nunca en la lucha desmayar podré
 
 2. Yo soy muy débil
    pero en tí soy fuerte
@@ -21,7 +29,7 @@ nunca en la lucha desmayar podré//
 3. Dura es la lucha difícil la tarea
    más tu me dotas de tu gran poder
    mi espíritu renuevas con la idea nueva
-   de vencer, de vnecer.
+   de vencer, de vencer.
 
 4. Alelu ... Aleluya.
    Nunca en la lucha desmayar podré.
