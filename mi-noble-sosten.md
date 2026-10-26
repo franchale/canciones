@@ -1,6 +1,5 @@
-# LA CABAÑA
-- [Canción en youtube 1 - Coro Cristiano Emanuel](https://youtu.be/Pa11fiYcoJ4)
-- [Canción en youtube 2 - Romanti Ezel 267](https://youtu.be/Y6U-s21Hv-I)
+# MI NOMBLE SOSTEN
+
 ```text
    Re+         La+ Si-                Fa#-  Sol+  
 1. Mi noble sostén    de la esperanza mía
@@ -29,7 +28,7 @@ nunca en la lucha desmayar podré//
 
 ```
 <ul style="font-size: 10px;">
-  <li>Fuente: Coritario VN No. 206</li>
+  <li>Fuente: Coritario VN No. 264</li>
   <li>Autor:</li>
   <li>Música:</li>
 </ul>
